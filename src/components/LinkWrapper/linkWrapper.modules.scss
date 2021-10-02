@@ -1,0 +1,20 @@
+.linkWrapper{
+  display: flex;
+}
+
+.social{
+  height: 40px;
+  width: 40px;
+  border: 1px solid #e8ecee;
+  margin-right: 5px;
+  text-align: center;
+  padding-top: 10px;
+  text-decoration: none;
+  color: #c6cacc;
+  transition: background-color linear 0.3s;
+}
+
+.social:hover{
+  color: #fff;
+  background-color: red;
+}
